@@ -1,0 +1,24 @@
+{
+  "name": "projeto-de-explorando-colabora-o-e-markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolas-Tavares-Souza/Projeto-de-Explorando-Colabora-o-e-Markdown.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolas-Tavares-Souza/Projeto-de-Explorando-Colabora-o-e-Markdown/issues"
+  },
+  "homepage": "https://github.com/Nicolas-Tavares-Souza/Projeto-de-Explorando-Colabora-o-e-Markdown#readme",
+  "dependencies": {
+    "epress": "^0.0.1-security",
+    "express": "^5.2.1"
+  }
+}
