@@ -1,8 +1,21 @@
-## Sejam bem-vindos ao meu projeto!
+# 🚀 Projeto Prática Git & GitHub
 
-![Gif do gatinho](https://www.orkugifs.com/images/gatinho-usando-computador_4114.gif)
---------
+## 📌 Descrição
+Este projeto foi criado com o objetivo de praticar os principais recursos do Git e GitHub,
+incluindo versionamento, commits, issues, pull requests e formatação Markdown.
 
-❄️Olá, me chamo Nicolas Tavares!
+É um projeto educacional, focado em simular um ambiente real de colaboração em equipe.
 
-💬 No momento so estou estudando git e github e não tenho nenhum projeto para descrever.
+---
+
+## 🛠️ Tecnologias Utilizadas
+- Git
+- GitHub
+- Markdown
+- VS Code
+
+---
+
+[repositorio do projeto](https://github.com/Nicolas-Tavares-Souza/Projeto-de-Explorando-Colabora-o-e-Markdown)
+
+![Nicolas Tavares Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Tavares-Souza&show_icons=true&theme=dracula)
