@@ -1,10 +1,12 @@
 # 🚀 Projeto Prática Git & GitHub
 
+❄️  Olá, me chamo Nicolas Tavares Souza.
+
 ## 📌 Descrição
 Este projeto foi criado com o objetivo de praticar os principais recursos do Git e GitHub,
 incluindo versionamento, commits, issues, pull requests e formatação Markdown.
 
-É um projeto educacional, focado em simular um ambiente real de colaboração em equipe.
+É um projeto educacional, focado em simular um ambiente real de colaboração em equipe. De acordo com as instruções passadas pelo curso da DIO.
 
 ---
 
